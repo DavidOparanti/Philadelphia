@@ -268,7 +268,7 @@ section
 {
 	width: 142px;
 	height: 46px;
-	background: #937c6f;
+	background: #722f37;
 	text-align: center;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
@@ -995,7 +995,7 @@ section
 .product_buy
 {
 	display: inline-block;
-	background: #937c6f;
+	background: #722f37;
 	vertical-align: middle;
 	margin-right: 4px;
 	-webkit-transition: all 200ms ease;
@@ -1393,7 +1393,7 @@ section
 	right: 0;
 	width: 142px;
 	height: 46px;
-	background: #937c6f;
+	background: #722f37;
 	color: #FFFFFF;
 	font-size: 12px;
 	letter-spacing: 0.2em;
